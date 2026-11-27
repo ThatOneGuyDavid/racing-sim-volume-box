@@ -8,7 +8,7 @@ I found my old car stereo gear while cleaning out the garage. It had been in my 
 
 ![The subwoofer enclosure on the floor with the two separate speaker boxes behind it.](photos/stereo.jpg)
 
-The same 200 W × 4 amplifier that powered my college car stereo now sits on the front of the subwoofer box. I bridged its rear channels to drive the sub. Each front channel drives one 6½-inch coaxial speaker, with a tweeter in the center and a crossover inside its box.
+The same 100 W × 4 amplifier that powered my college car stereo now sits on the front of the subwoofer box. I bridged its rear channels to drive the sub. Each front channel drives one 6½-inch coaxial speaker, with a tweeter in the center and a crossover inside its box.
 
 ![The four-channel amplifier mounted to the front of the subwoofer enclosure.](photos/amplifier.jpg)
 
