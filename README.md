@@ -10,6 +10,18 @@ When I designed the volume box, the top seemed like a natural place for the cont
 
 I made the cradle interchangeable so that another controller could have its own cradle on the same mount. Two pairs of magnets sit in recesses in the cradle and the shelf, so the cradle lifts straight off. The printed cradle fits my DualShock 4, and the revised volume box worked perfectly in my rig.
 
+## Installed in the cockpit
+
+I mounted the box beside the G29 so I can reach the volume knob from the seat. The DualShock stays in the cradle with its audio cable plugged in.
+
+![The installed box beside the wheel, seen from the side of the cockpit.](photos/installed-cockpit.jpg)
+
+![The DualShock 4 in its cradle beside the G29, with the volume knob facing the driver.](photos/installed-driver-view.jpg)
+
+![The controller’s audio cable plugged in while the controller sits in the cradle.](photos/installed-cable.jpg)
+
+## On the bench
+
 ![DualShock 4 seated in the blue cradle above the front volume knob.](photos/assembled.jpg)
 
 DualShock 4 seated in the blue cradle above the front volume knob.
